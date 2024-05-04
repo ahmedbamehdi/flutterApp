@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "709631960207",
+    "firebase_url":"https://console.firebase.google.com/u/0/project/sparking-firebase/authentication/users",
+    "project_id": "sparking-firebase",
+    "storage_bucket": "sparking-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709631960207:android:e1feb6c884ef3de45f3cfa",
+        "android_client_info": {
+          "package_name": "com.example.S_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBis8ev5fYii81zYvZ3p_KoPVHzTmQppXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
